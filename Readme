@@ -1,0 +1,205 @@
+# 📊 HR Analytics Dashboard
+
+A complete **HR Analytics** project built using **Python, SQL, Excel, and Power BI** to analyze employee attrition, workforce trends, and key HR metrics. This project demonstrates the complete data analytics workflow, from data cleaning and exploratory data analysis (EDA) to interactive dashboard creation and business insights.
+
+---
+
+## 📌 Project Overview
+
+Employee attrition is one of the biggest challenges faced by organizations. This project analyzes HR data to identify factors contributing to employee turnover and provides actionable insights through interactive dashboards.
+
+The project covers:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Data Analysis
+- KPI Reporting
+- Interactive Power BI Dashboard
+- Business Insights
+
+---
+
+## 🎯 Business Problem
+
+Organizations often struggle to understand why employees leave. This project helps answer questions such as:
+
+- Which department has the highest attrition?
+- Does overtime increase employee turnover?
+- Which age groups leave the company most frequently?
+- Does monthly income affect attrition?
+- Which job roles have the highest resignation rates?
+- How do job satisfaction and work-life balance influence employee retention?
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+
+- **SQL (MySQL)**
+
+- **Power BI**
+
+- **Microsoft Excel**
+
+- **Git & GitHub**
+
+---
+
+## 📂 Project Structure
+
+```
+HR-Analytics-Dashboard/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│
+├── sql/
+│
+├── dashboard/
+│
+├── images/
+│
+├── reports/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+---
+
+## 📊 Project Workflow
+
+1. Import HR dataset
+2. Clean and preprocess data
+3. Perform Exploratory Data Analysis (EDA)
+4. Analyze data using SQL
+5. Build interactive Power BI dashboards
+6. Generate business insights
+7. Publish project on GitHub
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+- Total Employees
+- Active Employees
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Monthly Income
+- Average Years at Company
+- Average Job Satisfaction
+
+---
+
+## 📉 Dashboard Features
+
+- Employee Attrition Analysis
+- Department-wise Attrition
+- Gender Distribution
+- Job Role Analysis
+- Salary Distribution
+- Overtime Analysis
+- Age Distribution
+- Work-Life Balance Analysis
+- Employee Performance Overview
+- Interactive Filters & Slicers
+
+---
+
+## 📸 Dashboard Preview
+
+### Overview Dashboard
+
+![Dashboard](images/dashboard.png)
+
+> Replace the image above with your own dashboard screenshot.
+
+---
+
+## 🔍 Key Insights
+
+- Sales department experienced the highest employee attrition.
+- Employees working overtime showed higher resignation rates.
+- Employees with lower monthly income had higher turnover.
+- Most employees resigned within the first few years of joining.
+- Job satisfaction and work-life balance had a significant impact on employee retention.
+
+---
+
+## 🚀 How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/bibi-zainab/HR-Analytics-Dashboard.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd HR-Analytics-Dashboard
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Python Scripts
+
+Execute the analysis scripts or open the Jupyter notebook to explore the data.
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Power BI
+- Python Programming
+- Microsoft Excel
+
+---
+
+## 🔮 Future Improvements
+
+- Build a machine learning model for employee attrition prediction.
+- Connect the dashboard to a live SQL database.
+- Deploy the dashboard using Streamlit.
+- Automate data updates using Python.
+
+---
+
+## 👩‍💻 Author
+
+**Bibi Zainab**
+
+📍 Bengaluru, Karnataka
+
+📧 bibizainab1604@gmail.com
+
+🔗 GitHub: https://github.com/bibi-zainab
+
+---
+
+## ⭐ If you found this project useful, consider giving it a Star!

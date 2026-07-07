@@ -73,3 +73,5 @@ A Power BI dashboard file is included in the dashboard folder for portfolio pres
 - Connect the dashboard to a live SQL database.
 - Automate the ETL workflow with scheduled pipelines.
 - Expand analysis with employee engagement metrics.
+# HR-Analytics-Dashboard
+HR Analytics Dashboard using Python, SQL, Power BI and Excel

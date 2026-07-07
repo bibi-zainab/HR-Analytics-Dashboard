@@ -1,0 +1,22 @@
+HR-Analytics-Dashboard/
+
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│
+├── sql/
+│
+├── dashboard/
+│
+├── images/
+│
+├── reports/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
